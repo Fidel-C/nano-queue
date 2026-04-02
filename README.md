@@ -1,8 +1,3 @@
-Here is the updated project with the name changed to **`nano-queue`**. All references—including package names, class names, file paths, and SQL table names—have been adjusted to reflect the new identity.
-
-### `README.md`
-
-```markdown
 # 🪶 nano-queue
 
 **Zero-infra background jobs for Python. No Redis. No Celery. No extra server costs.**
